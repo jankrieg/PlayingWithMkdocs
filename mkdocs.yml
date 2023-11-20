@@ -8,9 +8,6 @@ nav:
   - A Nice Picture: "drawio.md"
   - Some mathematics: "mathematics.md"
 
-extra_css:
-  - css/extra.css
-
 plugins:
   - drawio_file
 
