@@ -4,7 +4,8 @@ theme:
   locale: en
 
 nav:
-  - Home: 'helloWorld.md'
+  - Home: "index.md"
+  - A Nice Picture: "drawio.md"
 
 extra_css:
-    - css/extra.css
+  - css/extra.css
