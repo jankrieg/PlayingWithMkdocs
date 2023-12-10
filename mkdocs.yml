@@ -5,7 +5,8 @@ theme:
 
 nav:
   - Home: "index.md"
-  - A Nice Picture: "drawio.md"
+  - Drawio: "drawio.md"
+  - mermaid: "mermaid.md"
   - Some mathematics: "mathematics.md"
 
 plugins:
